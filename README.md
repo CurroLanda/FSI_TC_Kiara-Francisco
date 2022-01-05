@@ -14,7 +14,7 @@ We have used the following images repositories in order to train, validate and t
 **	https://www.kaggle.com/rhammell/planesnet
 
 
-### Pre-requisitos 📋🛠️
+### Requirements 📋🛠️
 
 Collab and the previous datasets must be downloaded and organised in folders in your Drive account.
 
