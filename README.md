@@ -19,7 +19,13 @@ We have used the following images repositories in order to train, validate and t
 Collab and the previous datasets must be downloaded and organised in folders in your Drive account.
 
 
-## Autores ✒️
+### Conclusions 
+
+After creating our model and training it, we've obtained an approximately 98%accuracy when identifying and clasifying our images, so we can afirm that our IA's predictions are worth considering.
+Apart from the IA's learning process, ours has been very joyfull, we have had the opportunity to apply everything we've learned in our lessons and alos got the encouragement by our supervisor to develop a YOLO in order to improve our proyect, in fact it has been a tough challenge.
+
+
+## Authors ✒️
 
 * **Francisco José Landa Ortega** - *Main developer* - https://github.com/CurroLanda
 * **Kiara Sánchez Cordero** - *Main developer* - https://github.com/kiarasanchez212
